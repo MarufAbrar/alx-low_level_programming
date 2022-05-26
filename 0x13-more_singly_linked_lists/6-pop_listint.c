@@ -21,4 +21,3 @@ int pop_listint(listint_t **head)
 	free(tp);
 	return (my_data);
 }
-
